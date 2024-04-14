@@ -8,7 +8,7 @@
 
 😃 I am making my own page now, you can view it on [https://hatmic.com](https://hatmic.com)
 
-### 💬 My language:
+### 💬 My language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatmic)](https://github.com/Hatmic)
 
