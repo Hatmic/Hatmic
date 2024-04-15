@@ -10,7 +10,7 @@
 
 ### 💬 My language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatmic)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatmic)
 
 ### 😍 Popular Project
 
