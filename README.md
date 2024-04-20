@@ -8,7 +8,7 @@
 
 😃 I am making my own page now, you can view it on [https://hatmic.com](https://hatmic.com).
 
-💕I can write some simple code in HTML, CSS, JavaScript, C, C++, Python, and Dart.
+💕 I can write some simple code in HTML, CSS, JavaScript, C, C++, Python, and Dart.
 
 ### 💬 My language
 
