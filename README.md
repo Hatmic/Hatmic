@@ -18,6 +18,6 @@
 
 [![pro.hatmic.com](https://github-readme-stats.vercel.app/api/pin/?username=hatmic&repo=pro.hatmic.com&theme=shadow_blue)](https://github.com/Hatmic/Project-pro.hatmic.com)
 
-### 🏆 My GitHub Stats
+### 🏆 My GitHub Status
 
-[![Hatmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatmic&show_icons=true&theme=vue)](https://github.com/hatmic)
+[![Hatmic's GitHub Status](https://github-readme-stats.vercel.app/api?username=hatmic&show_icons=true&theme=vue)](https://github.com/hatmic)
