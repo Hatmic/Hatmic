@@ -18,10 +18,6 @@
 
 [![pro.hatmic.com](https://github-readme-stats.vercel.app/api/pin/?username=hatmic&repo=pro.hatmic.com&theme=shadow_blue)](https://github.com/Hatmic/Project-pro.hatmic.com)
 
-[![old.hatmic.com](https://github-readme-stats.vercel.app/api/pin/?username=hatmic&repo=hatmic.com&theme=shadow_blue)](https://github.com/Hatmic/Homepage-old.hatmic.com)
-
-[![blog.hatmic.com](https://github-readme-stats.vercel.app/api/pin/?username=hatmic&repo=blog.hatmic.com&theme=shadow_blue)](https://github.com/Hatmic/blog.hatmic.com)
-
 ### 🏆 My GitHub Stats
 
 [![Hatmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatmic&show_icons=true&theme=vue)](https://github.com/hatmic)
