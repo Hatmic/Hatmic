@@ -21,3 +21,7 @@
 ### 🏆 My GitHub Stats
 
 [![Hatmic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatmic&show_icons=true&theme=vue)](https://github.com/hatmic)
+
+### ❤️ My friends
+
+[Coppist](https://github.com/coppist), [Tolazyer](https://github.com/tolazyer), [Nomina](https://github.com/helloyork), [猫鱼](https://github.com/zybqw), [T-MKT](https://github.com/t-mkt)
